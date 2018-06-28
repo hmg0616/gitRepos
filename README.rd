@@ -1,6 +1,2 @@
 
-hihi
-신기하다
-hihihello
-실험입니다
-
+Git 연습 Repository 입니다
